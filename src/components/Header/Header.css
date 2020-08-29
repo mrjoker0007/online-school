@@ -1,0 +1,13 @@
+nav {
+  height: 90px;
+  width: 100%;
+  box-shadow: 5px 5px 10px gray;
+  background-color: rgb(236, 134, 134);
+}
+nav img {
+  width: 10%;
+  margin-left: 5%;
+}
+nav p {
+  font-size: 20px;
+}

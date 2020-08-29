@@ -1,0 +1,17 @@
+.shop-content {
+  display: flex;
+  margin: 2%;
+  padding: 1.5%;
+}
+
+.courses {
+  border-right: 2px solid goldenrod;
+}
+
+.cart button {
+  background-color: #ec3984;
+  padding: 2% 10%;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}
